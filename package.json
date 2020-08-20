@@ -1,8 +1,8 @@
 {
-    "name": "service-fw",
+    "name": "clown2.js",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "",
     "license": "MIT",
     "dependencies": {
         "lodash": "4.17.20",
